@@ -748,7 +748,7 @@ footer{text-align:center;padding:14px 0 22px;color:var(--mute);font-size:11px;le
   <div class="sp"></div>
   <div class="links">
     <a href="mailto:hariprasath14@gmail.com"><b>MAIL</b> hariprasath14@gmail.com</a>
-    <a href="tel:+************" data-copy="**********"><b>MOB</b> +91 63696 59459</a>
+    <a href="tel:+************" data-copy="**********"><b>MOB</b> +91 ***** *****</a>
     <a href="https://instagram.com/shades_of_ultron" target="_blank" rel="noopener"><b>IG</b> @shades_of_ultron</a>
   </div>
 </div>
@@ -763,7 +763,7 @@ footer{text-align:center;padding:14px 0 22px;color:var(--mute);font-size:11px;le
 <div class="modal" id="about"><div class="glass box about"><div class="reactor big"></div><div class="hud gold">Stark Industries</div><h2 class="t" style="margin-top:8px">Built by Hari</h2>
 <p class="mute sm">YTGrab &middot; media acquisition system &middot; powered by yt-dlp &amp; FFmpeg</p>
 <a class="ct" href="mailto:hariprasath14@gmail.com"><i>@</i><div><small>Email</small>hariprasath14@gmail.com</div></a>
-<a class="ct" href="tel:+91**********"><i>Ph</i><div><small>Mobile</small>+91 63696 59459</div></a>
+<a class="ct" href="tel:+91**********"><i>Ph</i><div><small>Mobile</small>+91 ***** *****</div></a>
 <a class="ct" href="https://instagram.com/shades_of_ultron" target="_blank" rel="noopener"><i>IG</i><div><small>Instagram</small>@shades_of_ultron</div></a>
 <p class="mute sm" style="margin-top:16px">Please download only content you have the right to save.</p>
 <button class="ic" id="ax" style="margin-top:6px">Close</button></div></div>
